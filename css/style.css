@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  height: 100%;
+}
+body {
+  background: #004e92;
+}
+ul,
+ol {
+  list-style: none;
+}
+.button-wrapper {
+  padding-left: 100px;
+  padding-top: 100px;
+}
+button#openModal {
+  font-size: 2rem;
+  background-color: #fff;
+  color: #004e92;
+  border: none;
+  border-radius: 25px;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: 0 0 24px rgba(255, 255, 255, 0.8);
+}
